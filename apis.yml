@@ -45,7 +45,7 @@ tags:
 - Company
 - Digital Imaging
 - Photography
-- Real-Estate
+- Real Estate
 - E-Commerce
 - Imaging Technology
 tags_raw:
@@ -55,6 +55,7 @@ tags_raw:
 - Real Estate
 - E-Commerce
 - Imaging Technology
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
