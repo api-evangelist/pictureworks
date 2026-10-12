@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/pictureworks/integrations
+- https://n8n.io/integrations/pictureworks/
+- https://composio.dev/toolkits/pictureworks
+- https://monid.ai/tools/pictureworks
+checked:
+- https://composio.dev/toolkits/pictureworks
+- https://monid.ai/tools/pictureworks
+- https://n8n.io/integrations/pictureworks/
+- https://zapier.com/apps/pictureworks/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
